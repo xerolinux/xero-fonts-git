@@ -2,7 +2,7 @@
 pkgname=xero-fonts-git
 _destname1="/"
 pkgver=1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Some Collected Fonts"
 arch=('any')
 url="https://github.com/XeroLinux"
